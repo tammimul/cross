@@ -1,0 +1,47 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "tammim",
+      "description": "student",
+      "image": "https://www.lifewire.com/thmb/l7qM6RfTXYLUUfryFavWEkcT1XY=/3940x2529/filters:no_upscale():max_bytes(150000):strip_icc()/surf-internet-url-henrik5000-e-getty-images-56fa7f855f9b5829867282a9.jpg",
+      "url" : "https://en.wikipedia.org/wiki/Facebook"
+
+    },
+    {
+      "id": 2,
+      "name": "Canvasapp",
+      "description": "educatio-portal",
+      "image": "https://www.instructure.com/sites/default/files/styles/small_hq/public/image/2021-01/media-logo-canvas-vert.jpg?itok=-I_e6slv",
+      "url" : "https://en.wikipedia.org/wiki/Facebook"
+    },
+    {
+      "id": 3,
+      "name": "Tcs-Ion",
+      "description": "student-Fees portal",
+      "image": "https://www.tcsion.com/dotcom/TCSSMB/Login/TCS-iON-Logo-RGB-Color.png?v=0.9",
+      "url" : "https://www.instagram.com/accounts/login/"
+    },
+    {
+      "id": 4,
+      "name": "Smart lab",
+      "description": "Virtual Lab",
+      "image": "https://pbs.twimg.com/profile_images/1079858412702363649/-RgY2Qjs.jpg",
+      "url" : "https://economictimes.indiatimes.com/topic/INS"
+    },
+    {
+      "id": 5,
+      "name": "Superset",
+      "description": "Placement Portal",
+      "image": "https://miro.medium.com/max/1200/1*ZspvzFiFizHwcPzN09h6sw.png",
+      "url" : "https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ins"
+    },
+    {
+      "id": 6,
+      "name": "Linkedin",
+      "description": "Something",
+      "image": "https://png.pngtree.com/element_our/md/20180626/md_5b321c9756fc6.jpg",
+      "url" : "https://www.ncbi.nlm.nih.gov/gene/3630"
+    }
+  ]
+}
